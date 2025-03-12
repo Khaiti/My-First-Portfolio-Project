@@ -1,3 +1,4 @@
+--AdventureWorks Sales & Customer Insight
 --Queries focusing strictly on Joins and Subqueries AdventureWorks file
 
 --1. Retrieve Employee Full Name and Job Title
